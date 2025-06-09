@@ -1,10 +1,6 @@
 # IPL-DATA-ANALYSIS
 Indian Premier League 2008-2019
 
-made-with-python GitHub license Ask Me Anything !
-
-IPL-WallPaper
-
 The Indian Premier League is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India in 2008.
 
 Installation
@@ -13,7 +9,6 @@ Start by installing Python and Git if you have not already.
 
 Next, clone this project by opening a terminal and typing the following commands (do not type the first $ signs on each line, they just indicate that these are terminal commands):
 
-$ git clone https://github.com/bprasad26/ipl_data_analysis.git 
 $ cd ipl_data_analysis
 
 Next, create a virtual environment:
